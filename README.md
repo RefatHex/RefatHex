@@ -6,3 +6,6 @@
 
 🌱 Learning C,C++,Java,Python,Js and their frameworks
 
+## Blogs posts:
+1) https://refathex.hashnode.dev/
+2) https://medium.com/@ifte_refat
