@@ -7,7 +7,7 @@
 🌱 Learning C,C++,Java,Python,Js and their frameworks
 ## Github Stats
 
-![Screenshot](./download.svg)
+![refathex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refathex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Blogs posts:
 1) https://refathex.hashnode.dev/
