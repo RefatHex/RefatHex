@@ -6,7 +6,7 @@
 
 🌱 Learning `C`, `C++`, `Java`, `Python`, `JavaScript (Js)`and their frameworks
 
-🌱I'm good at Web Scraping, RESTful API structure, Static Website build .
+🌱I'm good at `Automation`, `Web Scraping`,  `RESTful API`, `Static Website`, build .
 
 🌱I like to find out the creative yet simple solution for every problem.
 ## Github Stats
