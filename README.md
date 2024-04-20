@@ -4,7 +4,7 @@
 ## About Me 🚀
 🎓 I’m a coding enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering.
 
-🌱 Learning C,C++,Java,Python,Js and their frameworks
+🌱 Learning `C`, `C++`, `Java`, `Python`, `JavaScript (Js)`and their frameworks
 
 🌱I'm good at Web Scraping, RESTful API structure, Static Website build .
 
