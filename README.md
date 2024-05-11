@@ -10,9 +10,6 @@
 
 🌱I like to find out the creative yet simple solution for every problem.
 ## Github Stats
-
-![Refathex's Stats](https://github-readme-stats.vercel.app/api?username=Refathex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ![Refathex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Refathex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Blogs posts:
